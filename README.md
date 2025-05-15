@@ -24,3 +24,9 @@ use {
     'tiwari-krishna/retroWire-nvim',
 }
 ```
+
+Make sure to require the following somewhere into the config
+
+```lua
+require("retroWire")
+```
